@@ -1,7 +1,7 @@
 # Cozy Weather
 <a href='https://play.google.com/store/apps/details?id=com.dilyar.weather.app&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80"/></a>
 
-A beautiful Android forecast app. It is now available on Google Play, reaching more than **500** installs so far!
+A beautiful Android forecast app. It is now availables on Google Play, reaching more than **500** installs so far!
 
 ## Awesome Features 
 * Fetch accurate weather data in fourteen days
